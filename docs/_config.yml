@@ -33,7 +33,7 @@ url: https://satake0916.github.io  # the base hostname and protocol for your sit
 # baseurl: /docs/      # place folder name if the site is served in a subfolder
 
 # Build settings
-theme: jekyll-theme-clean-blog
+# theme: jekyll-theme-clean-blog
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"

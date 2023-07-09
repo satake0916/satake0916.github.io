@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "preset-ja-technical-writing": true
+  },
+  "filters": {
+    "allowlist": {
+      "allow": [
+        "京都大学大学院情報学研究科卒"
+      ]
+    }
+  }
+}

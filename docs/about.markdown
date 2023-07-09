@@ -1,18 +1,36 @@
 ---
 layout: page
-title: About
+title: 自己紹介
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# パーソナル
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 名前
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+satake0916
 
+## 生年月日
 
-[jekyll-organization]: https://github.com/jekyll
+1997.9.16
+
+# 学歴
+
+2022年4月　京都大学大学院情報学研究科卒
+
+# スキル
+
+{% link portfolio.md %}
+
+# 趣味
+
+- 対戦ゲーム
+    - スマブラ
+    - ハースストーン
+- 推理ゲーム
+    - ダンガンロンパ
+    - 逆転裁判
+- プログラミング
+    - 競技プログラミング
+    - 個人開発
+- 筋トレ

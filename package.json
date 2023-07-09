@@ -13,13 +13,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "markdownlint-cli2": "^0.8.1",
-    "textlint": "^13.3.3",
-    "textlint-filter-rule-allowlist": "^4.0.0",
-    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
     "bootstrap": "4.6.0",
     "font-awesome": "4.7.0",
+    "jpn.css": "^1.0.1",
     "jquery": "3.6.0",
-    "startbootstrap-clean-blog": "5.1.0"
+    "markdownlint-cli2": "^0.8.1",
+    "startbootstrap-clean-blog": "5.1.0",
+    "textlint": "^13.3.3",
+    "textlint-filter-rule-allowlist": "^4.0.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0"
   }
 }

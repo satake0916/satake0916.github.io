@@ -2,6 +2,7 @@
     "recommendations": [
         "shd101wyy.markdown-preview-enhanced",
         "taichi.vscode-textlint",
-        "davidanson.vscode-markdownlint"
+        "davidanson.vscode-markdownlint",
+        "jsynowiec.vscode-insertdatestring"
     ]
 }

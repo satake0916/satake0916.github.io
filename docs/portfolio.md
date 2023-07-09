@@ -1,17 +1,13 @@
 ---
 layout: page
-title: Portfolio
+title: ポートフォリオ
 permalink: /portfolio/
 ---
 
-# ポートフォリオ
+## 経験
 
-foo
-
-## 技術
-
-bar
+TODO
 
 ## 制作物
 
-foobar
+TODO

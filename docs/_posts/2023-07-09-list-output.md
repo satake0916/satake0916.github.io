@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  アウトプットを整理する
+subtitle: ソフトウェアエンジニアにとって必要なアウトプットの種類について。
 date:   2023-07-09 15:45:35 +0900
 categories: other
 ---

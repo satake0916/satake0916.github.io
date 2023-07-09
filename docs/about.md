@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 自己紹介
+title: About Me
 permalink: /about/
+description: 突然の自分語りどうした？
+background: '/img/bg-about.jpg'
 ---
 
 ## パーソナル
@@ -20,17 +22,17 @@ satake0916
 
 ## スキル
 
-{% link portfolio.md %}
+[ポートフォリオ](/portfolio.md)
 
 ## 趣味
 
 - 対戦ゲーム
-    - スマブラ
-    - ハースストーン
+  - スマブラ
+- ハースストーン
 - 推理ゲーム
-    - ダンガンロンパ
-    - 逆転裁判
+  - ダンガンロンパ
+  - 逆転裁判
 - プログラミング
-    - 競技プログラミング
-    - 個人開発
+  - 競技プログラミング
+  - 個人開発
 - 筋トレ

@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "shd101wyy.markdown-preview-enhanced",
-        "taichi.vscode-textlint"
+        "taichi.vscode-textlint",
+        "davidanson.vscode-markdownlint"
     ]
 }

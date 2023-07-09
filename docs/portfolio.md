@@ -1,10 +1,12 @@
 ---
 layout: page
-title: ポートフォリオ
+title: PORTFOLIO
 permalink: /portfolio/
+description: スキルと制作物と
+background: '/img/bg-contact.jpg'
 ---
 
-## 経験
+## スキル
 
 TODO
 

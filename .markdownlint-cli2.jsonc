@@ -6,7 +6,8 @@
     "no-inline-html": false, // MD033 HTMLは許容
     "no-bare-urls": false, // MD034 URLのリンク化条件
     "no-space-in-emphasis":false, // MD037  $$など数式で問題になったため外す
-    "link-fragments":false // MD051 相対パス設定
+    "link-fragments":false, // MD051 相対パス設定
+    "MD024": false
   },
   "ignores": [".git", "node_modules"] // 無視するディレクトリ
 }

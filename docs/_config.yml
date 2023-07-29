@@ -42,4 +42,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+kramdown:
+  # 数式はKaTeXでレンダリングする
+  math_engine: katex
+  # 数式で'が別文字に変換するのを防ぐための設定
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code

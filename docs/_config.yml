@@ -48,4 +48,4 @@ kramdown:
   # 数式で'が別文字に変換するのを防ぐための設定
   smart_quotes: ["apos", "apos", "quot", "quot"]
 
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   G-QGR4ELQE17
